@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/IDLE (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Pretty JSON",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"scroll_speed": 5,
+	"theme": "Default.sublime-theme",
+	"tree_animation_enabled": false,
+	"word_wrap": false
+}
